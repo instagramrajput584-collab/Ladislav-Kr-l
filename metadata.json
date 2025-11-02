@@ -1,0 +1,5 @@
+{
+  "name": "365 Daily",
+  "description": "A social network application that combines global calendars, holidays, and name days with social features like contacts, photos, and status updates, all powered by Gemini.",
+  "requestFramePermissions": []
+}
